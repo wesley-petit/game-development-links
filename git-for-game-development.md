@@ -41,7 +41,7 @@ git config --global core.safecrlf = true
 
 3. You are good to go.
 
-You can customize your gitattributes to follow a strict end line regulations, GitHube has a small ["how to"](https://docs.github.com/fr/get-started/getting-started-with-git/configuring-git-to-handle-line-endings?platform=windows#per-repository-settings) on their websites.
+You can customize your gitattributes to follow a strict end line regulations, GitHub has a small ["how to"](https://docs.github.com/fr/get-started/getting-started-with-git/configuring-git-to-handle-line-endings?platform=windows#per-repository-settings) on their websites.
 
 
 ### Change pull behavior to rebase
