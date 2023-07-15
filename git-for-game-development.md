@@ -12,6 +12,8 @@ Download GIT depending on your OS version [here](https://git-scm.com/downloads).
 
 ## Configuration
 ### GIT LFS
+If you want to migrate an existant repository to GIT LFS, follow [these instructions](https://notiz.dev/blog/migrate-git-repo-to-git-lfs).
+
 1. Open a terminal.
 
 2. Go to your repository directory.
