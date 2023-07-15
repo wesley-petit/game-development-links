@@ -25,6 +25,6 @@
 - [How to declare C++ delegates and access them in Blueprints](https://forums.unrealengine.com/t/tutorial-creating-and-using-delegates-c-and-accessing-them-in-blueprints/9649)
 
 ## Unreal Specifiers
-- [List of UPROPERTY](https://benui.ca/unreal/uproperty/#allowedclasses)
+- [List of UPROPERTY](https://benui.ca/unreal/uproperty/)
 - [List of UFUNCTION](https://unreal.gg-labs.com/quick-reference/the-ufunction-macro)
 - [List of UMETAS](https://docs.unrealengine.com/5.2/en-US/metadata-specifiers-in-unreal-engine/)
