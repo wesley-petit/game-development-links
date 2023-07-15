@@ -21,7 +21,7 @@ Download GIT depending on your OS version [here](https://git-scm.com/downloads).
 git lfs install
 ```
 
-5. Download a .gitattributes corresponding of your game engines.
+5. Download a .gitattributes corresponding of your game engines (e.g. [Unreal Engine](https://gist.github.com/wesley-petit/0263a4ade975ce0d30aaccd153e40f1a)).
 
 6. Add the .gitattributes at the root of your repository and push it to support LFS.
 
