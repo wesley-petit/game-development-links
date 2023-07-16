@@ -1,7 +1,7 @@
 # Unreal Engine useful links
 
 ## Install
-On Windows, you can download and execute this [file](https://gist.github.com/wesley-petit/6e75eff8d68c7f0ad1ffc2b4e25709b5) to automatically install Visual Studio for Unreal Engine.  
+You can import [this config file](https://gist.github.com/wesley-petit/a07010a0e2df3dad8b1fc7b349815972) in Visual Studio to automatically import all components.
 
 For full details :
 - [Setting Up Visual Studio](https://docs.unrealengine.com/5.2/en-US/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/) ⚠️Choose the correct documentation in the Unreal Engine version list.
