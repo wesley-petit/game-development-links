@@ -11,7 +11,7 @@ And, in my case, I often found GIT skills requirements in job offers.
 Download GIT depending on your OS version [here](https://git-scm.com/downloads).
 
 ## Configuration
-### GIT LFS
+### Install GIT LFS on a repository
 If you want to migrate an existant repository to GIT LFS, follow [these instructions](https://notiz.dev/blog/migrate-git-repo-to-git-lfs).
 
 1. Open a terminal.
@@ -28,9 +28,8 @@ git lfs install
 6. Add the .gitattributes at the root of your repository and push it to support LFS.
 
 
-### End Line
-For more information on the subject : https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/#line-endings-in-git.  
-For more information about GIT command : https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/.  
+### Configure End Line standard
+Here some links [explaining the subject](https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/#line-endings-in-git) and a description of [all command use in this tutorial.](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/).
 
 1. Open a terminal.
 
