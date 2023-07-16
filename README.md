@@ -1,6 +1,6 @@
 # Game Development Links
 ## About The Project
-I often share game development links and tutorials with my colleagues. So I decided to create this repository containing all these informations.
+I often share game development links and tutorials with my colleagues. So I decided to create one repository containing all these informations to avoid repeating.
 
 ⚠️ Some parts are personal choices that I choose to follow. It's typically the case with coding standard.
 
