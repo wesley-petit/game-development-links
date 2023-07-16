@@ -46,7 +46,7 @@ code to the real project code.
 |        ├── Musics
 |        ├── Sfx
 |
-├── Cores
+├── Cores                    # Main feature without arts
 |    ├── Characters
 |    ├── Interactables
 |    ├── Inputs
@@ -57,7 +57,7 @@ code to the real project code.
 |    ├── Game                 # Level build in the shipping build
 |    ├── Tests                # Level build only for testing and not present in shipping
 |
-├── Placeables                # All placeables items used by Level Designer
+├── Placeables                # All placeables items used by Level Designer (add Arts in Cores element)
 |    ├── Characters
 |    ├── Interactables
 ```
