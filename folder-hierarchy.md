@@ -22,6 +22,7 @@ code to the real project code.
 ![Folder Hierarchy](assets/folder-hierarchy.png)
 
 ### More details
+```
 <PROJECT_NAME>
 ├── Arts                      # Arts elements (Materials, Textures, Models, Sounds...)
 |    ├── 2D
@@ -59,6 +60,7 @@ code to the real project code.
 ├── Placeables                # All placeables items used by Level Designer
 |    ├── Characters
 |    ├── Interactables
+```
 
 ## Credits
 - [Style guide of Unreal Engine](https://github.com/Allar/ue5-style-guide#2e1-example-project-content-structure).
