@@ -1,8 +1,8 @@
 # Folder hierarchy
 ## Description
 It's a folder hierarchy that I generally follow for intermediate project (1-3 months), because it's scale very well.  
-In opposite to asset type hierarchy, we gather all assets in components folder. For instance, a folder "Mario" in Arts will contain  
-3D Models, animations, materials and textures concerning Mario.
+In opposite to asset type hierarchy, we gather all assets in components folder. For instance, a character named "Mario" will have  
+a folder in Arts that will contain 3D Models, animations, materials and textures concerning Mario.
 
 Following such hierarchy allows to easily :
 - add and remove a feature from the project.
