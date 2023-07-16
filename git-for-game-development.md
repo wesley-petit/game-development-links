@@ -35,7 +35,7 @@ Here some links [explaining the subject](https://www.aleksandrhovhannisyan.com/b
 
 2. Type the command.
 ```bash
-git config --global core.safecrlf = true
+git config --global core.safecrlf true
 ```
 
 3. You are good to go.
