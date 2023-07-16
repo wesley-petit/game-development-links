@@ -8,7 +8,7 @@ I often share game development links and tutorials with my colleagues. So I deci
 - [Unreal Engine useful links](unreal-engine-useful-links.md)
 - [Unity Engine useful links](unity-engine-useful-links.md)
 - [GIT for game development](git-for-game-development.md)
-- [Folder hierarchy](folder-hierarchy.md)
+- [Project Structure](project-structure.md)
 
 ## License
 Distributed under the CC0-1.0 License. See `LICENSE.txt` for more information.
