@@ -7,7 +7,7 @@
 
 ## Configuration
 ### Shipping
-- [Configure Shipping with Project Settings](https://docs.unrealengine.com/5.2/en-US/packaging-unreal-engine-projects/)
+- [Configure Shipping with Project Settings](https://docs.unrealengine.com/5.2/en-US/packaging-unreal-engine-projects/).
 - [Configure Project Launcher for deployment on multiple platforms](https://docs.unrealengine.com/5.2/en-US/using-the-project-launcher-in-unreal-engine/).
 - [Reducing Packaged Game Size](https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/ReducingPackageSize/).
 - [Build flags](https://docs.unrealengine.com/5.2/en-US/build-configuration-for-unreal-engine/).
