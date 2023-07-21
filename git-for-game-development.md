@@ -31,14 +31,12 @@ git lfs install
 ### Configure End Line standard
 Here some links [explaining the subject](https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/#line-endings-in-git) and a description of [all command use in this tutorial.](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/).
 
-1. Open a terminal.
-
-2. Type the command.
+1. Type the command.
 ```bash
 git config --global core.safecrlf true
 ```
 
-3. You are good to go.
+2. You are good to go.
 
 You can customize your gitattributes to follow a strict end line regulations, GitHub has a small ["how to"](https://docs.github.com/fr/get-started/getting-started-with-git/configuring-git-to-handle-line-endings?platform=windows#per-repository-settings) on their websites.
 
@@ -46,11 +44,9 @@ You can customize your gitattributes to follow a strict end line regulations, Gi
 ### Change pull behavior to rebase
 I personnaly change the pull behavior with rebase to avoid not needed merge with local commits. [Here](https://stackoverflow.com/questions/13846300/how-to-make-git-pull-use-rebase-by-default-for-all-my-repositories) is a link to all the options available.
 
-1. Open a terminal.
-
-2. Type The command.
+1. Type The command.
 ```bash
 git config --global pull.rebase true
 ```
 
-3. Rebase is the default option when you pull any repository of your computer.
+2. Rebase is the default option when you pull any repository of your computer.
